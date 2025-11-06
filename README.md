@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Hodan Ibrahim</h1>
+👋 Hi, I'm Hodan Ibrahim
 
 <p align="center">
   💻 MERN Stack Developer & Aspiring Data Scientist  
