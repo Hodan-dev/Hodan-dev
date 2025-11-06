@@ -1,7 +1,17 @@
 <h1 align="center">👋 Hi, I'm Hodan Ibrahim</h1>
 
 <p align="center">
-  💻 MERN Stack Developer in Training | 🌱 Exploring Machine Learning & Data Science
+  💻 MERN Stack Developer & Aspiring Data Scientist  
+  🌱 Passionate about building real-world apps and uncovering insights through data  
+  🎯 Learning to <b>design my life — not live by default</b>
+</p>
+<p align="center">
+  💻 Code • ☕ Create • 💡 Coffee • 🔁 Repeat
+</p>
+
+<h1 align="center">✨ Live by Design, Not by Default ✨</h1>
+<p align="center">
+  <i>"Consistency builds confidence — every line of code I write builds my future."</i>
 </p>
 
 ---
@@ -38,6 +48,7 @@
 
 ### 🧰 Tech Toolbox
 <p align="center">
+  <!-- 💻 Web Development -->
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
@@ -45,7 +56,14 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
+
+  <!-- 📊 Data Science -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
 </p>
+
 
 ---
 
