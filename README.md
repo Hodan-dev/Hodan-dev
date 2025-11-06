@@ -7,9 +7,7 @@
 
 
 <h2 align="center">✨ Live by Design, Not by Default ✨</h2>
-<p align="center">
-  💻 Code • ☕ Create • 💡 Coffee • 🔁 Repeat
-</p>
+
 
 ---
 
@@ -23,13 +21,13 @@
 ---
 
 ### 🧠 What I’m Learning
-- ⚛️ React Components, Props, and Hooks  
-- 💅 TailwindCSS for modern UI design  
-- ⚙️ Node.js + Express (Backend)  
-- 🗄️ MongoDB for data storage  
-- 🤖 Python for Machine Learning  
-- 📊 NumPy, Pandas & Scikit-learn for data analysis and modeling  
-
+- ⚛️ Learning **React** to build **interactive and dynamic web interfaces**
+- 💅 Exploring **TailwindCSS** to design **modern, responsive user interfaces**
+- ⚙️ Practicing **Node.js** and **Express** to create **powerful backend APIs**
+- 🗄️ Using **MongoDB** for **database design and data management**
+- 🤖 Learning **Python** to understand **data analysis and machine learning**
+- 📊 Mastering **NumPy**, **Pandas**, and **Scikit-learn** to **analyze, model, and predict data**
+- 📱 Exploring **Flutter** for **cross-platform mobile app development**
 ---
 
 
@@ -76,7 +74,7 @@
 
 ---
 
-### 🌈 Closing Note
+###  🌟 Closing Note
 <p align="center">
   🌟 <b>Living by Design, Not by Default.</b> 🌟  
   <br>💻 Code • ☕ Create • 💡 Coffee • 🔁 Repeat
