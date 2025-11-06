@@ -32,7 +32,7 @@
 
 ---
 
-### 🧰 Tech Toolbox
+
 ### 🧰 Tech Toolbox
 <p align="center">
   <!-- 💻 Web Development -->
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
 
