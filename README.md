@@ -1,48 +1,34 @@
-👋 Hi, I'm Hodan Ibrahim
-
+<h1 align="center">👋 Hi, I'm Hodan Ibrahim</h1>
 <p align="center">
   💻 MERN Stack Developer & Aspiring Data Scientist  
   🌱 Passionate about building real-world apps and uncovering insights through data  
   🎯 Learning to <b>design my life — not live by default</b>
 </p>
+
+
+<h2 align="center">✨ Live by Design, Not by Default ✨</h2>
 <p align="center">
   💻 Code • ☕ Create • 💡 Coffee • 🔁 Repeat
-</p>
-
-<h1 align="center">✨ Live by Design, Not by Default ✨</h1>
-<p align="center">
-  <i>"Consistency builds confidence — every line of code I write builds my future."</i>
 </p>
 
 ---
 
 ### 🌟 About Me
 - 🌍 Based in **Mogadishu, Somalia**  
-- 🎓 Studying **Computer Information Technology (CIT) At Jamhuriya University**  
-- 💡 Currently learning **React** & **TailwindCSS & Data Scince**  
--🎯 Goal: Become a **Full MERN Stack Developer & Data Scientist** by 2026  
-- 🚀 Passionate about building clean, responsive, and data-driven applications
--
-- “I want to start MERN first, then move to Machine Learning & Data Science — learn these topics: Data preprocessing, Regression, Classification, Clustering, Time Series analysis, Time Series classification, Feature engineering.”
+- 🎓 Studying **Computer Information Technology (CIT) At Jamhuriya university**  
+- 💡 Currently mastering **React & TailwindCSS**  
+- 🎯 Goal: Become a **Full MERN Stack Developer & Data Scientist** by 2026 and now learning 
+- 🚀 Passionate about creating **clean, responsive, and data-driven applications**  
 
 ---
-📘 Programming & Tools
-
- -🐍 Python (NumPy, Pandas, Matplotlib, Seaborn)
-
- -🤖 Scikit-learn
-
--📊 Jupyter Notebook
-
--🧮 Statistics & Probability
 
 ### 🧠 What I’m Learning
 - ⚛️ React Components, Props, and Hooks  
 - 💅 TailwindCSS for modern UI design  
-- ⚙️ Node.js + Express (coming next month)  
-- 🗄️ MongoDB for backend integration  
-- 🔐 Authentication (JWT + RBAC in progress)
-- Data preprocessing, Regression, Classification, Clustering, Time Series analysis, Time Series classification, Feature engineering.....
+- ⚙️ Node.js + Express (Backend)  
+- 🗄️ MongoDB for data storage  
+- 🤖 Python for Machine Learning  
+- 📊 NumPy, Pandas & Scikit-learn for data analysis and modeling  
 
 ---
 
@@ -63,7 +49,6 @@
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
 </p>
-
 
 ---
 
@@ -86,5 +71,8 @@
 
 ---
 
-### ✨ Quote I Live By
-> *“Living by Design Not By Default.”* 💖
+### 🌈 Closing Note
+<p align="center">
+  🌟 <b>Living by Design, Not by Default.</b> 🌟  
+  <br>💻 Code • ☕ Create • 💡 Coffee • 🔁 Repeat
+</p>
