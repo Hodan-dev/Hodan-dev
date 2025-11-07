@@ -52,7 +52,8 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  
+  
 
   <!-- 🧰 Tools -->
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
