@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" />
 
   <!-- 📱 Mobile Development -->
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
@@ -52,6 +53,8 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
+</p>
+
   
   
 
